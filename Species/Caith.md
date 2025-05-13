@@ -1,0 +1,11 @@
+*The caith are a species of humanoids which bear a close resemblance to felines, even having similar anatomical features. Their creation was the result of a fey curse that was placed upon a woman by Althesse, This formerly human woman spread her curse to other humans, inadvertently causing the creation of the caith.*
+
+---
+###### **Origin**
+The most commonly accepted explanation for the creation of the caith was "fey magics", but scholars have discovered that their progenitor was from a courtesan only known as "Cat-sith". Any human that had intimate contact with Cat-sith had a high likelihood of being affected by her curse, with their children (Irregardless of what partner they had) bearing the same feline features that Cat-sith had. In some rare instances, those that were affected became caith themselves. 
+
+The people that had turned into caith (or sometimes even the people who had caith children) would establish Antrana in the eastern forests of Cerisse. This community would continue to grow in numbers and develop their own culture. They'd become large enough to where some of them would split off into their own tribes. The caith remained reclusive for a long while until certain tribes would dare venture out and join the larger cities.
+###### **Traits**
+- **Lifespan**: 110 years, average 97.
+- **Height**: Adults stand up from 5’0 to 6’0.
+- **Physiology**: The caith have physiological features similar to those of a feline. Instead of rounded or pointed ears on the side of their heads (like most humanoid species), they have feline ears on the top of their heads. They also have tails (some have bushy tails while others don't), more defined fangs, and vertical slit pupils. Their vertical slit pupils allows for a greater range of constriction and dilation, enabling better vision in both bright and dim light. The caith also have innately enhanced agility compared to most other species, making jumping, climbing, and running far easier for the caith even if they aren't trained.

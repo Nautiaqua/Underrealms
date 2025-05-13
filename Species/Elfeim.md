@@ -1,0 +1,11 @@
+*One may mistake an elfeim for a human, but the taller stature as well as the pointy ears make them a very recognizable species. Their naturally long lives have granted them the chance to attain much more knowledge and power than any other species, but only a few truly grasp this chance.*
+
+---
+###### **Origin**
+After a hundred years of observation, [[Deities/Fa'vaesura.md|Fa'vaesura]] would notice that the humans were developing tools and attempting to understand and study the world around them. She'd observe that the average human lifespan at the time meant that a singular human wouldn't be able to grasp enough knowledge in one lifetime in order to truly understand the world that she had created. To sate her curiosity, she created the elfeim. A species that's quite similar to the humans, albeit taller and pointy-eared.
+
+The elfeim were deployed in their own secluded communities, equipped with the knowledge and skills that the humans had already gained. This allowed them to survive, but they wouldn't fully thrive until they'd make contact with the other two species. Some groups of humans and dwarves rejected or sometimes even killed elfeim on sight, but quite a large number of them grew to accept the elfeim as one of their own.
+###### **Traits**
+- **Lifespan**: 600 years, average 589.
+- **Height**: Adults stand up from 5’7 to 8’11.
+- **Physiology**: They look like humans but they have a taller average height as well as pointy ears. Their bodies are much more susceptible to the heat, with them suffering from heat strokes at temperatures that humans would be usually fine in. Their skin is also more prone to being sunburnt when out in the hot sun for long enough. On the other hand, they’re easily able to handle colder climates, more so than most other species. Otherwise their bodies have barely any discernable differences from humans and dwarves, with the three species sharing very similar anatomical structures. The elfeim have very slow aging compared to a lot of other species, with many elfeim only being teenagers by 30, and finally reaching adulthood by 60.
